@@ -1,4 +1,4 @@
-##Basic Analysis — Findings
+## Basic Analysis — Findings 1
 1. Employee Count
 Total number of employees: 300,024
 2. Gender Distribution
@@ -15,7 +15,7 @@ Total number of employees: 300,024
 Conclusion
 The analysis shows that the employee database contains 300,024 records. Approximately 60% of employees are male and 40% are female. The highest hiring activity occurred in 1986, followed by a general decline in annual hires.
 
- ##Department Analysis
+ ## Department Analysis 2
 
 The company has 9 departments with 240,124 current department assignments.
 
@@ -30,7 +30,7 @@ The company has 9 departments with 240,124 current department assignments.
 
 Development and Production together account for approximately 47.76% of all current department assignments. The company has the largest workforce in these two departments.
 
- ##Salary Analysis
+ ## Salary Analysis 3
 
 The analysis shows differences in average salaries across the company's 9 departments.
 
@@ -49,3 +49,19 @@ Interestingly, Development has the largest number of employees but does not have
 
 *Note: Salary values are presented in the units used in the dataset. The currency and payment period are not specified here.*
 
+## Salary Growth Analysis 4
+
+The analysis shows a consistent increase in average salary records between 1985 and 2002.
+
+ Key Findings
+
+- In 1985, the average salary was 53,182.36.
+- In 2002, the average salary reached 72,683.94.
+- The difference was 19,501.58, representing an increase of approximately 36.7%.
+- The average salary increased in every year shown.
+
+ Conclusion
+
+The data shows a steady upward trend in average salary records between 1985 and 2002.
+
+This analysis groups salary records by the year in which each salary became effective. It does not track individual employees' salary growth over time.
