@@ -82,3 +82,17 @@ Key Findings
 Most employees had more than 10 years of tenure as of January 1, 2001. This indicates that the workforce in the dataset consisted mainly of long-serving employees.
 
 *Note: The analysis uses hire dates and a fixed reference date of January 1, 2001. It includes all employees in the dataset, not only those employed on that date.*
+
+## Employee Department History 6
+
+ Key Findings
+
+- 31,579 employees worked in more than one department.
+- The top 20 employees in the analysis each worked in 2 distinct departments.
+- Department changes were identified using historical department assignment records.
+
+ Conclusion
+
+The analysis shows that some employees changed departments during their employment history. This provides insight into employee mobility within the company.
+
+*Note: The analysis counts distinct departments across historical records, not simultaneous department assignments.*
