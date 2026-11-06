@@ -71,6 +71,20 @@ employee-database-analysis/
 - Data analysis and interpretation
 - Presenting findings
 
+
+  ## Data Visualizations
+
+The project includes the following visualizations:
+
+### Employees by Department
+![Employees by Department](images/employees_by_department.png)
+
+### Average Salary by Year
+![Average Salary by Year](images/average_salary_by_year.png)
+
+### Employee Gender Distribution
+![Employee Gender Distribution](images/gender_distribution.png)
+
 ## Project Status
 
 Initial analysis completed.
