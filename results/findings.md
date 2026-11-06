@@ -65,3 +65,20 @@ The analysis shows a consistent increase in average salary records between 1985 
 The data shows a steady upward trend in average salary records between 1985 and 2002.
 
 This analysis groups salary records by the year in which each salary became effective. It does not track individual employees' salary growth over time.
+
+
+## Employee Experience Analysis 5
+
+The analysis examines employee tenure as of January 1, 2001.
+
+Key Findings
+
+- 190,656 employees (63.54%) had more than 10 years of experience.
+- 87,542 employees (29.18%) had between 5 and 10 years of experience.
+- 21,826 employees (7.27%) had less than 5 years of experience.
+
+ Conclusion
+
+Most employees had more than 10 years of tenure as of January 1, 2001. This indicates that the workforce in the dataset consisted mainly of long-serving employees.
+
+*Note: The analysis uses hire dates and a fixed reference date of January 1, 2001. It includes all employees in the dataset, not only those employed on that date.*
