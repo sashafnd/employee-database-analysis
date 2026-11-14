@@ -1,5 +1,17 @@
 # Employee Database Analysis
 
+Business Objective
+
+Analyze historical employee records to understand workforce composition, compare employee counts and average salaries across departments, and examine hiring trends over time. SQL is used to explore the data, and Power BI presents the main findings in an interactive dashboard.
+
+Business Questions
+
+Which departments had the largest employee headcount in the dataset’s latest available snapshot?
+
+How did average salary differ across departments in that snapshot?
+
+How did the number of hires change year by year?
+
 ## Project Overview
 
 This project focuses on analyzing an employee database using SQL and MySQL.
