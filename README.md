@@ -18,6 +18,12 @@ This project focuses on analyzing an employee database using SQL and MySQL.
 
 The goal is to explore employee demographics, analyze salary distributions, compare departments, and identify patterns in employee history.
 
+## Data Scope and Definitions
+
+This project uses the historical MySQL Employees Sample Database. “Current employees” are employees with an active department record in `dept_emp`, and “current salary” is the salary record marked as active in `salaries`. In the standard dataset, active records use `to_date = '9999-01-01'`.
+
+Employee tenure is calculated as of January 1, 2001. Here, “current” refers to the latest active records in this sample database, not to a present-day workforce.
+
 ## Tools & Technologies
 
 - MySQL
