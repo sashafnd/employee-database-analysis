@@ -1,5 +1,7 @@
 # Employee Database Analysis
 
+**Power BI portfolio project** · [Retail trading review — sales targets, margins and store contribution](retail-power-bi/)
+
 Business Objective
 
 Analyze historical employee records to understand workforce composition, compare employee counts and average salaries across departments, and examine hiring trends over time. SQL is used to explore the data, and Power BI presents the main findings in an interactive dashboard.

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="736" viewBox="0 0 1200 736" role="img"><title>Retail trading review. Sales and target by month and sales gap by city.</title><rect width="1200" height="736" fill="#F5F5EF"/>
+<rect x="0" y="0" width="1200" height="148" fill="#143A3D"/>
+<text x="46" y="39" text-anchor="start" fill="#A6D4C4" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">RETAIL ANALYTICS     /     PORTFOLIO</text>
+<text x="44" y="94" text-anchor="start" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="47" font-weight="650">Retail trading review</text>
+<text x="46" y="127" text-anchor="start" fill="#C8E1DC" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400">January 2020 – September 2022   ·   12 stores   ·   4 cities</text>
+<text x="46" y="188" text-anchor="start" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">Sales</text>
+<text x="46" y="242" text-anchor="start" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="700">170.01M</text>
+<text x="46" y="272" text-anchor="start" fill="#486465" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400">source monetary units</text>
+<text x="337" y="188" text-anchor="start" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">Plan attainment</text>
+<text x="337" y="242" text-anchor="start" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="700">110.5%</text>
+<text x="337" y="272" text-anchor="start" fill="#486465" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400">of store-level targets</text>
+<text x="628" y="188" text-anchor="start" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">Gross margin</text>
+<text x="628" y="242" text-anchor="start" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="700">49.2%</text>
+<text x="628" y="272" text-anchor="start" fill="#486465" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400">weighted by sales</text>
+<text x="919" y="188" text-anchor="start" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">Store contribution</text>
+<text x="919" y="242" text-anchor="start" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="700">68.63M</text>
+<text x="919" y="272" text-anchor="start" fill="#486465" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400">after operating expenses</text>
+<line x1="46" y1="301" x2="1154" y2="301" stroke="#B0C4BF"/>
+<text x="46" y="345" text-anchor="start" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="650">Sales and target by month</text>
+<text x="46" y="371" text-anchor="start" fill="#476463" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400">Million source units</text>
+<rect x="368" y="360" width="20" height="4" fill="#007B72"/>
+<text x="394" y="367" text-anchor="start" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400">Sales</text>
+<rect x="464" y="360" width="20" height="4" fill="#BA6931"/>
+<text x="490" y="367" text-anchor="start" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400">Target</text>
+<line x1="80" y1="603.0" x2="658" y2="603.0" stroke="#D6DFDA"/>
+<text x="66" y="608.0" text-anchor="end" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="400">0</text>
+<line x1="80" y1="544.7142857142857" x2="658" y2="544.7142857142857" stroke="#D6DFDA"/>
+<text x="66" y="549.7142857142857" text-anchor="end" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="400">2</text>
+<line x1="80" y1="486.42857142857144" x2="658" y2="486.42857142857144" stroke="#D6DFDA"/>
+<text x="66" y="491.42857142857144" text-anchor="end" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="400">4</text>
+<line x1="80" y1="428.1428571428571" x2="658" y2="428.1428571428571" stroke="#D6DFDA"/>
+<text x="66" y="433.1428571428571" text-anchor="end" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="400">6</text>
+<polyline points="80.0,463.5 98.1,482.0 116.1,462.2 134.2,500.5 152.2,439.4 170.3,485.1 188.4,483.5 206.4,498.4 224.5,487.7 242.6,470.8 260.6,441.8 278.7,483.3 296.8,458.7 314.8,447.5 332.9,436.7 350.9,475.3 369.0,469.5 387.1,478.3 405.1,459.6 423.2,437.3 441.2,469.3 459.3,442.2 477.4,503.7 495.4,473.7 513.5,441.1 531.6,443.5 549.6,466.8 567.7,470.4 585.8,497.4 603.8,468.2 621.9,472.2 639.9,466.6 658.0,440.2" fill="none" stroke="#BA6931" stroke-width="3.5" stroke-linejoin="round"/>
+<polyline points="80.0,475.0 98.1,474.0 116.1,458.6 134.2,464.9 152.2,470.4 170.3,450.9 188.4,430.9 206.4,456.9 224.5,454.0 242.6,454.4 260.6,448.4 278.7,460.7 296.8,455.3 314.8,465.3 332.9,454.8 350.9,454.4 369.0,424.8 387.1,466.6 405.1,420.2 423.2,426.9 441.2,456.5 459.3,437.4 477.4,482.2 495.4,459.4 513.5,439.5 531.6,481.2 549.6,462.5 567.7,447.3 585.8,450.0 603.8,441.7 621.9,431.0 639.9,437.2 658.0,451.2" fill="none" stroke="#007B72" stroke-width="3.5" stroke-linejoin="round"/>
+<text x="80.0" y="631" text-anchor="middle" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="400">Jan 20</text>
+<text x="224.5" y="631" text-anchor="middle" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="400">Sep 20</text>
+<text x="369.0" y="631" text-anchor="middle" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="400">May 21</text>
+<text x="513.5" y="631" text-anchor="middle" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="400">Jan 22</text>
+<text x="658.0" y="631" text-anchor="middle" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="400">Sep 22</text>
+<line x1="691" y1="330" x2="691" y2="643" stroke="#C5D0CB"/>
+<text x="721" y="345" text-anchor="start" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="650">Sales gap by city</text>
+<text x="721" y="371" text-anchor="start" fill="#476463" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400">Actual sales less target, millions</text>
+<text x="721" y="416" text-anchor="start" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">Kyiv</text>
+<rect x="896" y="403" width="171.4464513156" height="15" fill="#007B72"/>
+<text x="1148" y="416" text-anchor="end" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="400">+14.29</text>
+<text x="721" y="473" text-anchor="start" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">Lviv</text>
+<rect x="896" y="460" width="65.3436857988" height="15" fill="#007B72"/>
+<text x="1148" y="473" text-anchor="end" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="400">+5.45</text>
+<text x="721" y="530" text-anchor="start" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">Dnipro</text>
+<rect x="896" y="517" width="31.772491614000003" height="15" fill="#007B72"/>
+<text x="1148" y="530" text-anchor="end" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="400">+2.65</text>
+<text x="721" y="587" text-anchor="start" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">Kharkiv</text>
+<rect x="821.7325436372" y="574" width="74.2674563628" height="15" fill="#BA6931"/>
+<text x="1148" y="587" text-anchor="end" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="400">-6.19</text>
+<line x1="896" y1="390" x2="896" y2="607" stroke="#779693"/>
+<rect x="0" y="667" width="1200" height="69" fill="#E1ECE5"/>
+<text x="46" y="698" text-anchor="start" fill="#183F41" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="600">Eight stores met their cumulative sales target. Kyiv contributed +14.29M to the network gap.</text>
+<text x="46" y="722" text-anchor="start" fill="#486465" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400">Fixed portfolio snapshot. The Power BI report supports year and city filters.</text>
+</svg>
