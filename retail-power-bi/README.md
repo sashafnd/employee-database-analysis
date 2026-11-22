@@ -4,13 +4,15 @@
 
 ![Portfolio preview of monthly sales and target and the sales gap by city](overview.svg)
 
+This retail coursework uses `DataSource Power BI_новий.zip`, a collection of retail Excel and CSV files. The [workforce SQL case study](../sql/) uses the separate MySQL Employees Sample Database.
+
 ## Explore the report
 
 Download the repository using **Code → Download ZIP**, extract the whole folder, and open **retail-power-bi/Retail.pbip** in a current version of Power BI Desktop for Windows. Select **Home → Refresh** to load the included snapshot on first open. The report and model folders must be next to the PBIP file. All four data extracts are embedded in Power Query, so refresh works offline. If Desktop prompts for project or enhanced report support, enable the indicated option under **File → Options and settings → Options → Preview features**, restart, and reopen.
 
 | Report page | How to explore it |
 | --- | --- |
-| Sales vs target | Compare the two monthly lines, rank stores by their absolute gap and review the city table. Select Kharkiv in the city slicer. The three stores together recorded 34.38M in sales against 40.57M planned. |
+| Sales vs target | Compare the two monthly lines, rank stores by sales less target and review the city table. Select Kharkiv in the city slicer. The three stores together recorded 34.38M in sales against 40.57M planned. |
 | Margin and expenses | Filter by city or year on this page. Read gross margin alongside contribution margin, compare operating expenses across cities, then compare contribution and average receipt by store. |
 
 The two pages have independent year and city slicers. 2022 includes January to September. The image above is a static chart calculated from the same extracts.
