@@ -27,6 +27,10 @@ This course project uses the **MySQL Employees Sample Database**, a public datas
 | [05 · Time since hire](05_employee_experience.sql) | Use `TIMESTAMPDIFF` and `CASE` to place employees in nonoverlapping bands at a fixed date. |
 | [06 · Department mobility](06_department_history.sql) | Count people with more than one distinct department and inspect a reproducible sample of assignments by employee ID. |
 
+### Original course charts
+
+[Employees by department](../images/employees_by_department.png) · [Mean salary by effective year](../images/average_salary_by_year.png) · [Recorded gender distribution](../images/gender_distribution.png)
+
 ## Run the queries
 
 1. Use **MySQL 8.0 or later** and the public [Employees database revision used for reconciliation](https://github.com/datacharmer/test_db/tree/e324b56193ca506ab7cc1ab143a9153d8c4535d7). If the sample is already installed, skip the import. For a first import, use a disposable instance because the upstream installer recreates the `employees` database. [MySQL installation instructions](https://dev.mysql.com/doc/employee/en/employees-installation.html)
